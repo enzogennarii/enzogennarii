@@ -15,3 +15,4 @@
 - CSS3
 - JavaScript
 - Jest
+- React

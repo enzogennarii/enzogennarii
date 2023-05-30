@@ -15,4 +15,5 @@
 - CSS3
 - JavaScript
 - Jest
-- React
+- React.js
+- Redux

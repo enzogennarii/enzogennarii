@@ -1,10 +1,8 @@
 ### Oi, eu sou Enzo Gennari 👋😁
 
-- 🧑‍💻 Estou nas minhas primeiras semanas de estudo para me tornar um Desenvolvedor FullStack
+- 🧑‍💻 Estou nos meus primeiros meses de estudo para me tornar um Desenvolvedor FullStack
 - 💚 Estou cursando Desenvolvimento Web na Trybe, na Turma 30
-- 📑 Atualmente estou estudando FrontEnd
-
-##
+- 📑 Atualmente estou estudando BackEnd
 
 #### Tecnologias que estou estudando:
 
@@ -17,3 +15,4 @@
 - Jest
 - React.js
 - Redux
+- Docker

@@ -16,3 +16,4 @@
 - React.js
 - Redux
 - Docker
+- mySQL

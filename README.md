@@ -17,3 +17,4 @@
 - Redux
 - Docker
 - mySQL
+- Sequelize

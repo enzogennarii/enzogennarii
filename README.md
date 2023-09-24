@@ -7,7 +7,7 @@
 ##
 
 <div style="display: flex, flex-flow: wrap">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=enzogennarii&count_private=true&show_icons=true&hide_rank=false&include_all_commits=true&theme=midnight-purple" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=enzogennarii&count_private=false&show_icons=true&hide_rank=false&include_all_commits=false&theme=midnight-purple" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enzogennarii&layout=compact&theme=midnight-purple" />
 </div>
 

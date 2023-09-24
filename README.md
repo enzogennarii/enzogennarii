@@ -1,4 +1,4 @@
-<h1 style="color: purple">Oi, eu sou Enzo Gennari 👋😁</h1>
+<h1>Oi, eu sou Enzo Gennari 👋😁</h1>
 
 <ul>
   <li>🧑‍💻 Desenvolvedor Web FullStack</li>

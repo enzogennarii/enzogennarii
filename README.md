@@ -2,7 +2,7 @@
 
 <ul>
   <li>🧑‍💻 Desenvolvedor Web FullStack</li>
-  <li>💚 Cursando Desenvolvimento Web na Trybe</li>
+  <li>💚 Formado em Desenvolvimento Web na Trybe</li>
   <li>📑 Estudando Back-end</li>
 </ul>
 

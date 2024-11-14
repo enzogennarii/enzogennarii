@@ -12,6 +12,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enzogennarii&layout=compact&theme=midnight-purple" />
 </div>
 
+![Snake animation](https://github.com/enzogennarii/enzogennarii/blob/main/github-contribution-grid-snake.svg)
+
 <!-- Linguagens -->
 <section>
   <h2>Linguagens:</h2>

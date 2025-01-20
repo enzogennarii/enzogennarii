@@ -12,7 +12,13 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enzogennarii&layout=compact&theme=midnight-purple" />
 </div>
 
-![Snake animation](https://github.com/enzogennarii/enzogennarii/blob/main/github-contribution-grid-snake.svg)
+<!-- ![Snake animation](https://github.com/enzogennarii/enzogennarii/blob/main/github-contribution-grid-snake.svg) -->
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/enzogennarii/enzogennarii/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/enzogennarii/enzogennarii/output/github-contribution-grid-snake.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/enzogennarii/enzogennarii/output/github-contribution-grid-snake.svg">
+</picture>
 
 <!-- Linguagens -->
 <section>

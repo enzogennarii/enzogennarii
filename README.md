@@ -50,6 +50,7 @@
     <img alt="Chai" src="https://img.shields.io/badge/chai.js-323330?style=for-the-badge&logo=chai&logoColor=red" />
     <img alt="Sinon" src="https://img.shields.io/badge/sinon.js-323330?style=for-the-badge&logo=sinon" />
     <img alt="Docker" src="https://img.shields.io/badge/Docker-007ACC?style=for-the-badge&logo=docker&logoColor=white" />
+    <img alt="Blockchain" src="https://img.shields.io/badge/Blockchain-FFB800?logo=blockchain&logoColor=white&style=for-the-badge" />
   </div>
 </section>
 

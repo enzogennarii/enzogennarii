@@ -3,7 +3,7 @@
 <ul>
   <li>🧑‍💻 Desenvolvedor Web FullStack</li>
   <li>💚 Formado em Desenvolvimento Web na Trybe</li>
-  <li>📑 Estudando Rust e Blockchain</li>
+  <li>📑 Desenvolvendo um produto...</li>
 </ul>
 
 <!-- GitHub Stats -->

@@ -7,10 +7,10 @@
 </ul>
 
 <!-- GitHub Stats -->
-<div>
+<!-- <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=enzogennarii&count_private=true&show_icons=true&hide_rank=false&include_all_commits=true&theme=midnight-purple" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enzogennarii&layout=compact&theme=midnight-purple" />
-</div>
+</div> -->
 
 <!-- ![Snake animation](https://github.com/enzogennarii/enzogennarii/blob/main/github-contribution-grid-snake.svg) -->
 
